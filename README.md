@@ -1,1 +1,1 @@
-# music-rec
+# Music Rec System for Senior Work
