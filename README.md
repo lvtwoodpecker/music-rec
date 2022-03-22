@@ -6,3 +6,4 @@ The file is mostly some data loading/processing for now but I'm adding more stuf
 
 To do code review you might need to authorize https://www.reviewnb.com/
 
+Data from here: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
